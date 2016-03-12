@@ -8,4 +8,12 @@
     <string name="error_bad_credentials">Bad credentials</string>
     <string name="login_successfully">Login successfully</string>
     <string name="forgot_password">Forgot password?</string>
+    <string-array name="opciones">
+        <item>Lista Personalizada</item>
+        <item>Opcion 2</item>
+        <item>Opcion 3</item>
+        <item>Opcion 4</item>
+        <item>Opcion 5</item>
+        <item>Opcion 6</item>
+    </string-array>
 </resources>
