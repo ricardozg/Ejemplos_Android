@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Ejemplos</string>
+
+    <string name="username">Username</string>
+    <string name="password">Pasword</string>
+    <string name="button_login_text">Login</string>
+    <string name="error_field_required">Field required</string>
+    <string name="error_bad_credentials">Bad credentials</string>
+    <string name="login_successfully">Login successfully</string>
+    <string name="forgot_password">Forgot password?</string>
 </resources>
